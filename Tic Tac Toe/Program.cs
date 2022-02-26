@@ -92,9 +92,6 @@ void DrawO(int pos)
 /// <summary>
 /// The main game loop
 /// </summary>
-/// <param name="args"></param>
-/// 
-
 do
 {
     Console.Clear();
